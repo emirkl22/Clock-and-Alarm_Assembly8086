@@ -23,7 +23,7 @@ This program simulates a clock and alarm system using 7 segment displays in asse
 - Displays the hour, minute, and second values on 7 segment displays.
 
 ## Example Photo
-![Example Photo](example_photo/photo.PNG)
+![photo](https://github.com/user-attachments/assets/d924222d-010c-4816-8f0d-e5390fa77e1b)
 
 ##### Using Emulation Kit:
 ```
